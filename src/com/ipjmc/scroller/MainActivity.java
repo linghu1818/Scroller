@@ -4,6 +4,12 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**
+ * 
+ * @author linghu
+ * Scroller的使用的demo，CustomView可以实现任何ViewGroup的顶部和底部的滑动弹性回收效果，类似IOS
+ *
+ */
 public class MainActivity extends Activity {
 
     @Override
